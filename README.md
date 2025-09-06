@@ -1,1 +1,2 @@
-# A-Gen--AI-powered-platform-to-generate-molecular-structures
+# A-Gen--AI-powered-platform-to-generate-molecular-structures :
+My project is a web platform powered by Generative AI that can create novel molecular structures. It is built using Next.js and TailwindCSS to provide a modern, user-friendly interface. The platform allows users to give inputs as smile strings, sends them to an AI based NVIDIA molmim model , and then The AI model generates molecules in a raw format, Conversion libraries like (RDKit, Open Babel, 3Dmol.js) turn them into proper chemical structures and visuals,The platform then validates and displays them for research, drug discovery, or protein-binding studies.
